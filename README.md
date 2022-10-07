@@ -21,3 +21,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/xUNda3WnFK0NLGT52E/giphy.gif" width="500" />
 </div>
+
+<div align="center">
+  <img src="/github-metrics.svg" alt="Metrics" width="400" />
+</div>
