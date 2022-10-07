@@ -15,7 +15,7 @@ jobs:
       - name: youtube-playlist
         uses: xxb1s/metrics@master
         with:
-          token: ""
+          token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
           base: ""
           plugin_music: yes
